@@ -1,6 +1,6 @@
-# Events
+# M-x Research Events
 
-Join meetups at [[bit.ly/mxresearch]]
+Join our meetups @ [[bit.ly/mxresearch]] @ 3pm UTC/BST
 
 ## Demo and discuss: lsp-mode
 ### 6th August 2020
