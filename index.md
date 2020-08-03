@@ -4,11 +4,15 @@ M-x Research is a community of Researchers and Research Software Engineers forme
 
 We meet virtually every 1st and 3rd Thursday of every month to dicuss and share Emacs experiences, tips, tricks and tools useful for researchers and research software engineers.
 
+# Environment
+
+We strive to be welcoming and inclusive and to recognise the diversity of backgrounds and experience in the Emacs world. Newcomers and veterans are all welcome. Ultimately we are all learners.
+
+# Events
+
 Join our meetups on Zoom by following
 [bit.ly/mxresearch](bit.ly/mxresearch)
 @ 3pm UTC/BST
-
-# Events
 
 ## Demo and discuss: lsp-mode
 ### 6th August 2020
