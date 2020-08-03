@@ -1,5 +1,6 @@
 title: M-x Research
 description: Emacs for research
+logo: images/MxResearch.png
 markdown: kramdown
 theme: jekyll-theme-minimal
 github:
