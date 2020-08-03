@@ -1,6 +1,8 @@
 # M-x Research Events
 
-Join our meetups @ [bit.ly/mxresearch](bit.ly/mxresearch) @ 3pm UTC/BST
+Join our meetups on Zoom by following
+[bit.ly/mxresearch](bit.ly/mxresearch)
+@ 3pm UTC/BST
 
 ## Demo and discuss: lsp-mode
 ### 6th August 2020
