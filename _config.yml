@@ -1,4 +1,6 @@
 title: M-x Research
-description: Online community for research with Emacs
+description: Emacs for research
 markdown: kramdown
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
