@@ -1,4 +1,4 @@
-# About Us
+# The Community
 
 M-x Research is a community of Researchers and Research Software Engineers formed as part on the Slack channel of the UK Research Software Engineering Society/Association.
 
