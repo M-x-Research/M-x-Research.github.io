@@ -11,7 +11,7 @@ We strive to be welcoming and inclusive and to recognise the diversity of backgr
 # Events
 
 Join our meetups on Zoom by following
-[bit.ly/mxresearch](bit.ly/mxresearch)
+[https://bit.ly/mxresearch](https://bit.ly/mxresearch)
 @ 3pm UTC/BST
 
 ## 6th August 2020
