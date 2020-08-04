@@ -1,6 +1,6 @@
 # The Community
 
-M-x Research is a community of Researchers and Research Software Engineers formed as part on the Slack channel of the UK Research Software Engineering Society.
+M-x Research is a community of Researchers and Research Software Engineers, first conceived in the UK Research Software Engineering Society Slack channels.
 
 We meet virtually every 1st and 3rd Thursday of every month to dicuss and share Emacs experiences, tips, tricks and tools useful for researchers and research software engineers.
 
@@ -13,6 +13,8 @@ We strive to be welcoming and inclusive and to recognise the diversity of backgr
 Join our meetups on Zoom by following
 [https://bit.ly/mxresearch](https://bit.ly/mxresearch)
 @ 3pm UTC/BST
+
+Add the shared calendar [on google calendar](https://calendar.google.com/calendar?cid=bzB0aWFkbGpwNWRxN2xrYjUxbW52bnJoMDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or as an [iCal link](https://calendar.google.com/calendar/ical/o0tiadljp5dq7lkb51mnvnrh04%40group.calendar.google.com/public/basic.ics).
 
 ## 6th August 2020
 ### Demo and discuss: lsp-mode
