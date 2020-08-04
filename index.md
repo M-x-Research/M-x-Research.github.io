@@ -12,7 +12,8 @@ We strive to be welcoming and inclusive and to recognise the diversity of backgr
 
 Join our meetups on Zoom by following
 [https://bit.ly/mxresearch](https://bit.ly/mxresearch)
-@ 3pm UTC/BST
+@ 3pm UK time
+(GMT/UTC November – March; BST/UTC+1 April – October)
 
 Add the shared calendar [on google calendar](https://calendar.google.com/calendar?cid=bzB0aWFkbGpwNWRxN2xrYjUxbW52bnJoMDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or as an [iCal link](https://calendar.google.com/calendar/ical/o0tiadljp5dq7lkb51mnvnrh04%40group.calendar.google.com/public/basic.ics).
 
