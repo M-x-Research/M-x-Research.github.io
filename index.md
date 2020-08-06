@@ -21,6 +21,8 @@ Add the shared calendar [on google calendar](https://calendar.google.com/calenda
 ## 6th August 2020
 ### Demo and discuss: lsp-mode
 RSEs often need to work with multiple programming languages. The Language Server Protocol (originally from Visual Studio Code) was designed to allow multiple language backends to provide a consistent interface to code completion, refactoring, jumping to symbol definitions, syntax highlighting, error messages etc. The lsp-mode package bring the power of LSP to the emacs world. @Chris Cave-Ayland has kindly agreed to lead an interactive demonstration to introduce lsp-mode, followed by opening the floor for an open discussion on using of lsp-mode to create a consistent development experience across multiple languages.
+[Notes are available here](2020/08/06/lsp-mode.html)
+
 ## 20th August 2020
 ### Live code: M-x Research
 Following on from our introduction to elisp (thanks @jjensenral), in this session we'll give those new to programming emacs a chance to see some customisation using elisp in practice. This will be an interactive session, in which we'll build up some simple functions in elisp. We'll build a package for connecting to our Zoom talks from Emacs, with a few extra bells and whistles. The aim of this session is to build confidence to start writing your own elisp functions or to understand functions that you will find in the wild.
