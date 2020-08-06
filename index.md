@@ -21,6 +21,7 @@ Add the shared calendar [on google calendar](https://calendar.google.com/calenda
 ## 6th August 2020
 ### Demo and discuss: lsp-mode
 RSEs often need to work with multiple programming languages. The Language Server Protocol (originally from Visual Studio Code) was designed to allow multiple language backends to provide a consistent interface to code completion, refactoring, jumping to symbol definitions, syntax highlighting, error messages etc. The lsp-mode package bring the power of LSP to the emacs world. @Chris Cave-Ayland has kindly agreed to lead an interactive demonstration to introduce lsp-mode, followed by opening the floor for an open discussion on using of lsp-mode to create a consistent development experience across multiple languages.
+
 [Notes are available here](2020/08/06/lsp-mode.html)
 
 ## 20th August 2020
