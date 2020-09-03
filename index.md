@@ -31,7 +31,7 @@ Following on from our introduction to elisp (thanks @jjensenral), in this sessio
 ### Demo and discuss: org-babel
 Org-babel is a powerful extension to org-mode which allows embedding executable code snippets into org documents. Org-babel allows a multi-language computing environment using literate programming techniques, particularly for reproducible research. This results in an environment similar to Jupyter notebooks or RMarkdown, but with the advantage of being able to pass data between multiple languages. @tlestang has kindly agreed to lead a demonstration of the basic features of org-babel, followed by opening the floor for an open discussion on the uses of org-babel for reproducible research.
 
-[Notes are available here](2020-09-03-org-babel.md)
+[Notes are available here](2020/09/03/org-babel.html)
 
 ## 17th September 2020
 ### Lightning Talks: I wish I'd known sooner...
