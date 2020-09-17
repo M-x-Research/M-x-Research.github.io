@@ -35,7 +35,7 @@ Org-babel is a powerful extension to org-mode which allows embedding executable 
 
 ## 17th September 2020
 ### Lightning Talks: I wish I'd known sooner...
-If you could pass one nuggets of emacs wisdom to your former self, what would it be? In this session, we'll be inviting people to share their nuggets of wisdom to their former self. Maybe a command, an editing trick or a philosophy. In order for the format to work, we'll need to have volunteers. If you come across a promising "nugget of wisdom" over the next weeks, please consider volunteering. I suggest that volunteers drop me a direct message, to avoid spoilers in the channel.
+If you could pass one nuggets of emacs wisdom to your former self, what would it be? In this session, we'll be inviting people to share their nuggets of wisdom to their former self. Maybe a command, an editing trick or a philosophy.
 
 [Notes available here](2020/09/17/wish-I-had-known.html)
 
