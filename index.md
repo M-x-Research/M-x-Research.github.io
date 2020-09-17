@@ -36,6 +36,9 @@ Org-babel is a powerful extension to org-mode which allows embedding executable 
 ## 17th September 2020
 ### Lightning Talks: I wish I'd known sooner...
 If you could pass one nuggets of emacs wisdom to your former self, what would it be? In this session, we'll be inviting people to share their nuggets of wisdom to their former self. Maybe a command, an editing trick or a philosophy. In order for the format to work, we'll need to have volunteers. If you come across a promising "nugget of wisdom" over the next weeks, please consider volunteering. I suggest that volunteers drop me a direct message, to avoid spoilers in the channel.
+
+[Notes available here](2020/09/17/wish-I-had-known.html)
+
 ## 1st October 2020
 ### Demo and discuss: Magit and version control
 Magit is a quick, comfortable and advanced interface to git from inside emacs. With a bit of familiarity, version controlling projects can become both easy and powerful. @mose has kindly agreed to demonstrate the use of magit in emacs to stay in control of version control. As in previous sessions, this will be an interactive demonstration, followed by a discussion of magit and version control tips, tricks and tools in emacs. (edited)
