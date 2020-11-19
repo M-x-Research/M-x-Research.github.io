@@ -43,6 +43,14 @@ If you could pass one nuggets of emacs wisdom to your former self, what would it
 ### Demo and discuss: Magit and version control
 Magit is a quick, comfortable and advanced interface to git from inside emacs. With a bit of familiarity, version controlling projects can become both easy and powerful. @mose has kindly agreed to demonstrate the use of magit in emacs to stay in control of version control. As in previous sessions, this will be an interactive demonstration, followed by a discussion of magit and version control tips, tricks and tools in emacs. (edited)
 
+## 19th November 2020
+### Managing Python virtual environments
+
+## 3rd December 2020
+### The Anatomy of a Major mode
+
+## 17th December
+### Multiple projects in Emacs
 
 # Contact Us
 
