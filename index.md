@@ -2,7 +2,7 @@
 
 M-x Research is a community of Researchers and Research Software Engineers, first conceived in the UK Research Software Engineering Society Slack channels.
 
-We meet virtually every 1st and 3rd Thursday of every month to dicuss and share Emacs experiences, tips, tricks and tools useful for researchers and research software engineers.
+We meet virtually every 1st and 3rd Friday of every month at 3pm (UK time) to dicuss and share Emacs experiences, tips, tricks and tools useful for researchers and research software engineers.
 
 # Environment
 
