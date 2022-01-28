@@ -28,7 +28,7 @@ I'm continuing an amazing work that Mark Dawson started two years ago! Unfortuna
 
 Some of us met last Friday to discuss what kind of things we would like to do in this year, and we've come up with a plan. First thing to notice is the change of times of our regular meetings! We will be meeting on Tuesdays between 16'00 and 17'00 UK time. Read below to know more about our future plans!
 
-[Notes are available here](2022/01/71/a-new-year.html)
+[Notes are available here](2022/01/21/a-new-year.html)
 
 ## 2020
 ### 6th August 2020
