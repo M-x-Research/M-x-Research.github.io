@@ -2,7 +2,7 @@
 
 M-x Research is a community of Researchers and Research Software Engineers, first conceived in the UK Research Software Engineering Society Slack channels.
 
-We meet virtually every 1st and 3rd Friday of every month at 3pm (UK time) to dicuss and share Emacs experiences, tips, tricks and tools useful for researchers and research software engineers.
+We meet virtually every 1st and 3rd Tuesday of every month at 4pm (UK time) to dicuss and share Emacs experiences, tips, tricks and tools useful for researchers and research software engineers.
 
 # Environment
 
@@ -12,11 +12,11 @@ We strive to be welcoming and inclusive and to recognise the diversity of backgr
 
 Join our meetups on Zoom by following
 [https://bit.ly/mxresearch](https://bit.ly/mxresearch)
-@ 3pm (UK time)
+@ 4pm (UK time)
 
 Get in touch (details below) to request a password.
 
-Add the shared calendar [on google calendar](https://calendar.google.com/calendar?cid=bzB0aWFkbGpwNWRxN2xrYjUxbW52bnJoMDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or as an [iCal link](https://calendar.google.com/calendar/ical/o0tiadljp5dq7lkb51mnvnrh04%40group.calendar.google.com/public/basic.ics).
+Add the shared calendar [on google calendar](https://calendar.google.com/calendar?cid=bzB0aWFkbGpwNWRxN2xrYjUxbW52bnJoMDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or as an [iCal link](https://calendar.google.com/calendar/ical/o0tiadljp5dq7lkb51mnvnrh04%40group.calendar.google.com/public/basic.ics). We are also on [mobilizon](https://mobilizon.fr/@m_x_research), our federated organization and mobilisation platform. You can also subscribe there to our [events iCal calendar](https://mobilizon.fr/@m_x_research/feed/ics).
 
 ## 6th August 2020
 ### Demo and discuss: lsp-mode
@@ -46,4 +46,4 @@ Magit is a quick, comfortable and advanced interface to git from inside emacs. W
 
 # Contact Us
 
-To speak at an event or propose a topic, get in touch on the #emacs channel of UKRSE Slack, or email [markgdawson@gmail.com](mailto:markgdawson@gmail.com)
+To speak at an event or propose a topic, get in touch on the [`#emacs` channel of UKRSE Slack](https://ukrse.slack.com/archives/CDBHZCDQE), or [email David Pérez-Suárez](mailto:d.perez-suarez@ucl.ac.uk)
