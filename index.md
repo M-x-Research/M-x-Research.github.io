@@ -18,6 +18,21 @@ Get in touch (details below) to request a password.
 
 Add the shared calendar [on google calendar](https://calendar.google.com/calendar?cid=bzB0aWFkbGpwNWRxN2xrYjUxbW52bnJoMDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or as an [iCal link](https://calendar.google.com/calendar/ical/o0tiadljp5dq7lkb51mnvnrh04%40group.calendar.google.com/public/basic.ics). We are also on [mobilizon](https://mobilizon.fr/@m_x_research), our federated organization and mobilisation platform. You can also subscribe there to our [events iCal calendar](https://mobilizon.fr/@m_x_research/feed/ics).
 
+## 2023
+### 30th December 2023
+#### Reviving the site (and our community) - 2023 summary and plans for 2024
+
+Our last post in the site was from January 2022!! That's almost two years ago.
+Most probably, whoever who visited this site in that time thought we were not
+doing anything anymore. But that's not true!
+
+In 2023 we've continued with [Jens Jensen's functional programming
+lectures](https://www.youtube.com/playlist?list=PLcMjpsudwvnG0ePHdNqRmIwKVNWCTdSE9),
+our sessions of Show & Tell where Vidianos has been the most active presenter!
+Some of us were lucky enough to meet in person at some of the RSE events. 
+
+[Notes are available here](2023/12/30/reviving-site.html)
+
 ## 2022
 ### 21st January 2022
 #### Start of a new year!
