@@ -75,4 +75,4 @@ Magit is a quick, comfortable and advanced interface to git from inside emacs. W
 # Contact Us
 
 To speak at an event or propose a topic, get in touch on the [`#emacs` channel of UKRSE Slack](https://ukrse.slack.com/archives/CDBHZCDQE), [M-x Research in `[matrix]`](https://matrix.to/#/!XtQVoULbGAnRWuwmtc:petrichor.me?via=matrix.org&via=integrations.ems.host&via=envs.net) or [email David Pérez-Suárez](mailto:d.perez-suarez@ucl.ac.uk)
-You can also find us at <a rel="me" href="https://emacs.ch/@Mx_Research">Mastodon</a>.
+You can also find us at <a rel="me" href="https://fosstodon.org/@Mx_Research">Mastodon</a>.
