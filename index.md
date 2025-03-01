@@ -11,7 +11,7 @@ We strive to be welcoming and inclusive and to recognise the diversity of backgr
 # Events
 
 Join our meetups on Zoom by following
-[https://bit.ly/mxresearch](https://bit.ly/mxresearch)
+[https://tiny.cc/mxresearch](https://tiny.cc/mxresearch)
 @ 4pm (UK time)
 
 Get in touch (details below) to request a password.
@@ -29,7 +29,7 @@ doing anything anymore. But that's not true!
 In 2023 we've continued with [Jens Jensen's functional programming
 lectures](https://www.youtube.com/playlist?list=PLcMjpsudwvnG0ePHdNqRmIwKVNWCTdSE9),
 our sessions of Show & Tell where Vidianos has been the most active presenter!
-Some of us were lucky enough to meet in person at some of the RSE events. 
+Some of us were lucky enough to meet in person at some of the RSE events.
 
 [Notes are available here](2023/12/30/reviving-site.html)
 
@@ -37,7 +37,7 @@ Some of us were lucky enough to meet in person at some of the RSE events.
 ### 21st January 2022
 #### Start of a new year!
 
-A new year has started, and with it some resolutions! 
+A new year has started, and with it some resolutions!
 
 I'm continuing an amazing work that Mark Dawson started two years ago! Unfortunately, Mark cannot commit this year to be as present in our small community, but he will still be around (👋 Mark!).
 
